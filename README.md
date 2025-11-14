@@ -1,3 +1,9 @@
+Link naar styleguide
+https://github.com/hebaahx/look-and-feel-styleguide 
+
+
+
+
 # Corporate Identity
 
 Ontwerp en maak voor een opdrachtgever een website op basis van een bestaande huisstijl.
