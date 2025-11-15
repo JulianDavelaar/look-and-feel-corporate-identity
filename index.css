@@ -22,8 +22,8 @@ footer{
     
 }
 
-.active{
-    color: var(--primary-action);
+.icon{
+    fill: black;
 }
 
 .text{
