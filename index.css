@@ -1,3 +1,5 @@
+
+
 header{
     background-color: var(--primary-color);
     text-align: center;
@@ -5,7 +7,10 @@ header{
     display: flex;
     justify-content:space-between;
     align-items: center;
+    position: sticky;
+    top: 0;
     padding: 0 20px;
+    grid-row: 1;
     
 }
 
@@ -16,18 +21,19 @@ body{
     display: flex;
     flex-direction: column;
     height: 100vh;
+    grid-template-rows: 1fr auto 1fr;
 }
-
-
 
 
 footer{
     background-color: var(--primary-color);
-    padding: 10px 0 50px 0;
+    padding: 10px 20px 50px 20px;
     display: flex;
     justify-content: space-between;
     position: sticky;
+    bottom: 0;
     overflow: hidden; 
+    grid-row: 3;
 
 }
 
@@ -47,6 +53,6 @@ footer{
 }
 
 .scroll{
-    max-height: 200px;
-    overflow-y:auto;
+    max-height: 80%;
+    grid-row: 2;
 }
