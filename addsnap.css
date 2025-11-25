@@ -9,7 +9,6 @@ header{
     top: 0;
     padding: 0 20px;
     grid-row: 1;
-    
 }
 
 body{
@@ -28,21 +27,21 @@ footer{
     padding: 10px 20px 50px 20px;
     display: flex;
     justify-content: space-between;
-    position: sticky;
+    position: fixed;
     bottom: 0;
+    right: 0;
+    left: 0;
     overflow: hidden; 
     grid-row: 3;
 
 }
-.active a{
+
+a{
     text-decoration: none;
-    color: var(--primary-action);
+    color: black;
     }
 
-.basic{
-    text-decoration: none;
-    color: var(--black);
-}
+
 
 /* vragen hoe ik een afbeelding een kleur kan geven */
 .icons{
@@ -55,6 +54,9 @@ footer{
     
 }
 
+.active{
+    color: var(--secondary-action);
+}
 
 .scroll{
     max-height: 80%;
