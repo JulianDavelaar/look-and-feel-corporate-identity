@@ -15,7 +15,7 @@ header{
 body{
     margin: 0;
     padding: 0;
-    text-align: center;
+    text-align: left;
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -34,14 +34,15 @@ footer{
     grid-row: 3;
 
 }
-.active a{
+.active{
     text-decoration: none;
     color: var(--primary-action);
     }
 
-.basic{
+a{
     text-decoration: none;
     color: var(--black);
+
 }
 
 /* vragen hoe ik een afbeelding een kleur kan geven */
@@ -59,4 +60,10 @@ footer{
 .scroll{
     max-height: 80%;
     grid-row: 2;
+    
 }
+
+section{
+    padding-left: 1em;
+}
+
