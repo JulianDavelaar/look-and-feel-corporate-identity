@@ -1,6 +1,9 @@
-Link naar styleguide
+##Link naar styleguide
 https://github.com/hebaahx/look-and-feel-styleguide 
 
+##ontwerpkeuze gepresenteert bij opdrachtgever.
+Ik heb mijn ontwerpkeuze voor een breder scherm gepresenteerd bij de opdrachtgever.
+De opdrachtgever vond dit in principe een prima idee, echter wilt ze dat we eerst focussen op een mobiele versie, daarom is er nog geen keuze gemaakt en blijf ik tot die tijd bezig met het ontwerpen van me eigen design. hieronder een afbeelding van mijn design
 
 
 
