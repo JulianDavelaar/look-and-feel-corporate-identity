@@ -4,6 +4,7 @@ https://github.com/hebaahx/look-and-feel-styleguide
 ##ontwerpkeuze gepresenteert bij opdrachtgever.
 Ik heb mijn ontwerpkeuze voor een breder scherm gepresenteerd bij de opdrachtgever.
 De opdrachtgever vond dit in principe een prima idee, echter wilt ze dat we eerst focussen op een mobiele versie, daarom is er nog geen keuze gemaakt en blijf ik tot die tijd bezig met het ontwerpen van me eigen design. hieronder een afbeelding van mijn design
+<img width="938" height="649" alt="image" src="https://github.com/user-attachments/assets/f3f8133f-8c78-4cf5-b6f3-43e8dfc5d266" />
 
 
 
