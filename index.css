@@ -71,3 +71,8 @@ section{
     padding-left: 1em;
 }
 
+input{
+    width: 30%;
+    display: flex;
+    
+}
